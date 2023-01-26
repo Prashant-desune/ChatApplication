@@ -1,0 +1,1 @@
+this.setLayout(new BorderLayout());
